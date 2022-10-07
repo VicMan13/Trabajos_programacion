@@ -1,1 +1,1 @@
-conclusiones
+Lo que se puedo observar es que el clasificador de redes neuronales tiene un 85.46% de proximidad en entrenamiento y el mejor clasificador para el test es el de vecino cercanos con K=25 donde se tiene una proximidad del 84%.
